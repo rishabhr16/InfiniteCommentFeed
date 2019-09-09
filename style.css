@@ -1,0 +1,86 @@
+.COLOR_0 {
+    background-color: #7FDBFF;
+    padding: 20px 8px 8px 25px;
+}
+.COLOR_1 {
+    background-color: #39CCCC;
+    padding: 20px 8px 8px 25px;
+}
+.COLOR_2 {
+    background-color: #2ECC40;
+    padding: 20px 8px 8px 25px;
+}
+.COLOR_3 {
+    background-color: #AAAAAA;
+    padding: 20px 8px 8px 25px;
+}
+.COLOR_4 {
+    background-color: #DDDDDD;
+    padding: 20px 8px 8px 25px;
+}
+.COLOR_5 {
+    background-color: #FFDC00;
+    padding: 20px 8px 8px 25px;
+}
+
+body {
+    background-color: #001f3f;
+}
+
+.post_wall {
+    font-family: 'Libre Franklin', sans-serif;
+    background-color: #7FDBFF;
+    color: #001f3f;
+}
+.post_wall input {
+    font-size: 16px; 
+}
+.post_wall button {
+    font-size: 14px; 
+}
+
+button, input {
+    border: none;
+    border-radius: 0px;
+    margin: 0 5px 10px 0;
+    background-color: inherit;
+}
+input {
+    border-bottom: 2px #001f3f solid;
+}
+button {
+    border: 2px #001f3f solid;
+}
+button:hover {
+    cursor: pointer;
+    background-color: #001f3f;
+    color: white;
+}
+
+.postInput {
+    border-bottom: 2px white solid;    
+    height: fit-content;
+    font-size: 40px;
+    color: #DDDDDD;
+}
+
+.postBlock {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: 20vh;
+}
+
+.postButton {
+    font-size: 2em;
+    border: 2px #DDDDDD solid;
+    border-radius: 0px;
+    margin: 0 5px 10px 0;
+    background-color: inherit;
+    color: #DDDDDD;
+}
+.postButton:hover {
+    cursor: pointer;
+    background-color: #DDDDDD;
+    color: #001f3f;
+}
