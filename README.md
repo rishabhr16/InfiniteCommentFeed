@@ -1,4 +1,4 @@
-# Infinite Comment Feed
+# Infinite Comments
 
 ### Playing around with closures
 
